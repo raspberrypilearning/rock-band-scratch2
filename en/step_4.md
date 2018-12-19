@@ -15,7 +15,7 @@ Click on the drum sprite, and then drag these two blocks into the code area on t
 
 --- print-only ---
 
-![blocks_1545213158_4272876](images/blocks_1545213158_4272876.png)
+![blocks_1545231186_5561485](images/blocks_1545231186_5561485.png)
 --- /print-only ---
 
 Make sure that the blocks are connected together (like LEGO bricks).
