@@ -28,7 +28,7 @@ Click on **Vocals** in the list on the left-hand side, and then choose a suitabl
 --- task ---
 Now that the sound has been added, you can add the following code blocks to your singer sprite:
 
-![blocks_1545213161_5828068](images/blocks_1545213161_5828068.png)
+![blocks_1545231190_4210007](images/blocks_1545231190_4210007.png)
 --- /task ---
 
 --- task ---
