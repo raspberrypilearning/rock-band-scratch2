@@ -15,10 +15,7 @@ Click on the drum sprite, and then drag these two blocks into the code area on t
 
 --- print-only ---
 
-```blocks
-when this sprite clicked
-play drum (1 v) for (0.25) beats
-```
+![blocks_1545213158_4272876](images/blocks_1545213158_4272876.png)
 --- /print-only ---
 
 Make sure that the blocks are connected together (like LEGO bricks).
