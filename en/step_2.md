@@ -5,7 +5,7 @@ Before you can start coding, you'll need to add in a 'thing' to code. In Scratch
 --- task ---
 Open a new Scratch project in the offline editor.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff).
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 It looks like this:
 
