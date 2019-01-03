@@ -13,7 +13,7 @@ Learn how to code your own musical instruments!
 Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/26741186/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/26741186/?autostart=false" frameborder="0" scrolling="no"></iframe>
 </div>
 --- /no-print ---
 
@@ -44,7 +44,7 @@ title: What you will need
 
 #### Software
 
-+ Scratch 2.0 [offline](http://rpf.io/scratchoff)
++ Scratch 2.0 [offline](http://rpf.io/scratchoff){:target="_blank"}
 
 --- /collapse ---
 
