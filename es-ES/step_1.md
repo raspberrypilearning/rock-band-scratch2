@@ -18,7 +18,7 @@ Haz clic en la bandera verde para empezar. Luego, haz clic en la cantante o el t
 
 ### Lo que aprenderás
 
-Este proyecto incluye elementos de los siguientes aspectos del [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Este proyecto incluye elementos de los siguientes aspectos del [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Usar estructuras básicas de programación para crear programas simples](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 

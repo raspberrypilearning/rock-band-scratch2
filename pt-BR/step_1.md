@@ -18,7 +18,7 @@ Clique na bandeira verde para começar. Em seguida, clique no cantor ou no tambo
 
 ### O que você vai aprender
 
-Este projeto abrange elementos dos seguintes tópicos do [Currículo de Criação Digital Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
+Este projeto abrange elementos dos seguintes tópicos do [Currículo de Criação Digital Raspberry Pi](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Uso básico de programação para construir programas simples](https://www.raspberrypi.org/curriculum/programming/creator){:target=blank"}
 

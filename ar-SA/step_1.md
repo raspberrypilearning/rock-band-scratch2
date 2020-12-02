@@ -17,7 +17,7 @@ This is the **Scratch 2** version of the project. There is also a [Scratch 3 ver
 
 ### ما ستتعلمه
 
-يتناول هذا المشروع عناصر من الصفوف التالية من [المناهج الرقمية الخاصة بـ Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
+يتناول هذا المشروع عناصر من الصفوف التالية من [المناهج الرقمية الخاصة بـ Raspberry Pi](https://rpf.io/curriculum){:target="_blank"}:
 
 + [استخدام تراكيب البرمجة الأساسية لإنشاء برامج بسيطة](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 

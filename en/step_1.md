@@ -44,7 +44,7 @@ title: What you will need
 
 #### Software
 
-+ Scratch 2.0 [offline](http://rpf.io/scratchoff){:target="_blank"}
++ Scratch 2.0 [offline](https://rpf.io/scratchoff){:target="_blank"}
 
 --- /collapse ---
 
@@ -59,7 +59,7 @@ If you need to print this project, please use the [printer-friendly version](htt
 
 --- /no-print ---
 
-You can download the completed project at [rpf.io/p/en/rock-band-scratch2-get](http://rpf.io/p/en/rock-band-scratch2-get).
+You can download the completed project at [rpf.io/p/en/rock-band-scratch2-get](https://rpf.io/p/en/rock-band-scratch2-get).
 
 --- /collapse ---
 

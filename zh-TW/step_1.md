@@ -18,7 +18,7 @@ This is the **Scratch 2** version of the project. There is also a [Scratch 3 ver
 
 ### 你會學到什麼
 
-此項目涵蓋 [Raspberry Pi數字化課程](http://rpf.io/curriculum){:target="_blank"}的下列部分：
+此項目涵蓋 [Raspberry Pi數字化課程](https://rpf.io/curriculum){:target="_blank"}的下列部分：
 
 + [使用基本的編程結構來創建簡單的程序](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 

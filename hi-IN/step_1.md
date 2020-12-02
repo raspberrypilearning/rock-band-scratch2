@@ -17,7 +17,7 @@ This is the **Scratch 2** version of the project. There is also a [Scratch 3 ver
 
 ### आप क्या सीखेंगे
 
-यह प्रोजेक्ट [Raspberry Pi डिजिटल निर्माण पाठ्यचर्या](http://rpf.io/curriculum) में से निम्नलिखित गुणों के तत्वों को कवर करता है{:target="_blank"}:
+यह प्रोजेक्ट [Raspberry Pi डिजिटल निर्माण पाठ्यचर्या](https://rpf.io/curriculum) में से निम्नलिखित गुणों के तत्वों को कवर करता है{:target="_blank"}:
 
 + [साधारण प्रोग्राम बनाने के लिए आधारभूत रचनाओं का उपयोग करें](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 

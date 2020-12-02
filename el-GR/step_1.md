@@ -18,7 +18,7 @@ This is the **Scratch 2** version of the project. There is also a [Scratch 3 ver
 
 ### Τι θα μάθεις
 
-Αυτό το έργο καλύπτει στοιχεία από τις ακόλουθες πτυχές του [Raspberry Pi Digital Curriculum Making](http://rpf.io/curriculum){:target="_blank"}:
+Αυτό το έργο καλύπτει στοιχεία από τις ακόλουθες πτυχές του [Raspberry Pi Digital Curriculum Making](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Χρησιμοποίησε βασικές δομές προγραμματισμού για να δημιουργήσεις απλά προγράμματα](https://www.raspberrypi.org/curriculum/programming/creator){:target="_ blank"}
 

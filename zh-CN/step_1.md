@@ -18,7 +18,7 @@ This is the **Scratch 2** version of the project. There is also a [Scratch 3 ver
 
 ### 你将学到什么
 
-本项目涵盖[树莓派数字制作课程](http://rpf.io/curriculum){:target="_blank"} 如下几方面内容:
+本项目涵盖[树莓派数字制作课程](https://rpf.io/curriculum){:target="_blank"} 如下几方面内容:
 
 + [利用基本的编程结构来创建简单的程序](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 

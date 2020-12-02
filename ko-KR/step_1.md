@@ -18,7 +18,7 @@ This is the **Scratch 2** version of the project. There is also a [Scratch 3 ver
 
 ### 배우게 될 것
 
-이 프로젝트는 [라즈베리파이 디지털 메이킹 커리큘럼](http://rpf.io/curriculum) 중 아래의 과정에 있는 요소들을 다룹니다.
+이 프로젝트는 [라즈베리파이 디지털 메이킹 커리큘럼](https://rpf.io/curriculum) 중 아래의 과정에 있는 요소들을 다룹니다.
 
 + [기본 프로그래밍 구문을 사용하여 간단한 프로그램 만들기](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 

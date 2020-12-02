@@ -27,7 +27,7 @@ Una versione completa di questo progetto può essere trovata a <a href="http://s
 + Eventi;
 + Suono e musica.
 
-Questo progetto copre elementi contenuti nei seguenti filoni di [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Questo progetto copre elementi contenuti nei seguenti filoni di [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 + [Utilizzo di costrutti di programmazione di base per la creazione di semplici programmi.](https://www.raspberrypi.org/curriculum/programming/creator)
 
